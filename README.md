@@ -1,1 +1,3 @@
-<?phecho "hello word mahmood";
+<?php
+echo "hello word mahmood";
+?>
